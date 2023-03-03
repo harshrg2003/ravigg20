@@ -1,0 +1,21 @@
+Displaying the details of Student 1Name=X
+USN=8
+Age=8
+Semester=8
+Attendance=0
+Marks=240.00
+
+Displaying the details of Student 2Name=Y
+USN=7
+Age=7
+Semester=7
+Attendance=1
+Marks=300.00
+
+Displaying the details of Student 3Name=Z
+USN=6
+Age=6
+Semester=7
+Attendance=1
+Marks=220.00
+

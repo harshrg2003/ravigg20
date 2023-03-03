@@ -1,0 +1,8 @@
+Displaying the details of Student 1
+Name=X
+USN=1
+Age=1
+Semester=1
+Attendance=1
+Marks=5.00
+
